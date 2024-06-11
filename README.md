@@ -6,4 +6,7 @@ En este repositorio se llevará a cabo un análisis para identificar las variabl
 
 
 ### ¿Cómo navegar el repositorio?
+### El repositorio está dividido en los siguientes directorios. 
+
+- data
 
