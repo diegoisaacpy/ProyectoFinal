@@ -5,8 +5,8 @@
 En este repositorio se llevará a cabo un análisis para identificar las variables más relevantes que afectan el costo del seguro médico. El objetivo es desarrollar un modelo de regresión lineal que permita calcular el costo del seguro médico en función de características específicas del asegurado. Este modelo facilitará estimaciones precisas y ayudará a comprender mejor cómo diferentes factores contribuyen al costo final del seguro.
 
 
-### ¿Cómo navegar el repositorio?
-### El repositorio está dividido en los siguientes directorios. 
+## ¿Cómo navegar el repositorio?
+#### El repositorio está dividido en los siguientes directorios. 
 
 - data
 
