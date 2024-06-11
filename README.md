@@ -6,7 +6,11 @@ En este repositorio se llevará a cabo un análisis para identificar las variabl
 
 
 ## ¿Cómo navegar el repositorio?
-#### El repositorio está dividido en los siguientes directorios. 
+#### El repositorio está dividido en los siguientes directorios:
 
-- data
-
+- data -> dataset utilizado para el proyecto.
+- docs -> documentación relevante.
+- images -> imagenes obtenidas en el análisis. 
+- notebooks -> ubicación de los archivos ipynb.
+- src -> código fuente.
+- tests -> pruebas del código.
